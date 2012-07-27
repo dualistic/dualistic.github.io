@@ -12,7 +12,7 @@ My Dad asked me what my opinion was on Jason Gilbert's  [11 Free Mac Apps That E
 
 ### 1. [VLC](http://www.videolan.org/vlc/index.html) 
 
-I absolutely agree, VLC is the best player for playing pretty much every kind of media on the internet.  It does not install nasty stuff, and you only have to use it if you want to.  It's one of the first apps I will install on a new operating system.  Seriously, everyone loves the traffic cone.
+I absolutely agree, VLC can play pretty much every kind of media on the internet.  In fact, if VLC can't play it, many would say that it is unplayable. It does not install nasty stuff, and you only have to use it if you want to.  It's one of the first apps I will install on a new operating system.  Seriously, everyone loves the traffic cone.
 
 ### 2. [Adium](http://adium.im/) 
 
